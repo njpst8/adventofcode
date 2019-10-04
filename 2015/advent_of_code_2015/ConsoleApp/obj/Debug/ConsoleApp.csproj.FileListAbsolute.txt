@@ -1,0 +1,10 @@
+c:\sandbox\adventofcode\2015\advent_of_code_2015\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+c:\sandbox\adventofcode\2015\advent_of_code_2015\ConsoleApp\bin\Debug\ConsoleApp.exe
+c:\sandbox\adventofcode\2015\advent_of_code_2015\ConsoleApp\bin\Debug\ConsoleApp.pdb
+c:\sandbox\adventofcode\2015\advent_of_code_2015\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+c:\sandbox\adventofcode\2015\advent_of_code_2015\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+c:\sandbox\adventofcode\2015\advent_of_code_2015\ConsoleApp\obj\Debug\ConsoleApp.exe
+c:\sandbox\adventofcode\2015\advent_of_code_2015\ConsoleApp\obj\Debug\ConsoleApp.pdb
+c:\sandbox\adventofcode\2015\advent_of_code_2015\ConsoleApp\bin\Debug\ClassLibrary1.dll
+c:\sandbox\adventofcode\2015\advent_of_code_2015\ConsoleApp\bin\Debug\ClassLibrary1.pdb
+c:\sandbox\adventofcode\2015\advent_of_code_2015\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete

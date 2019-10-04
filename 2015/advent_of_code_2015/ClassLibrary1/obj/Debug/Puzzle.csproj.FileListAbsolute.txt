@@ -1,0 +1,6 @@
+c:\sandbox\adventofcode\2015\advent_of_code_2015\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+c:\sandbox\adventofcode\2015\advent_of_code_2015\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+c:\sandbox\adventofcode\2015\advent_of_code_2015\ClassLibrary1\obj\Debug\Puzzle.csprojAssemblyReference.cache
+c:\sandbox\adventofcode\2015\advent_of_code_2015\ClassLibrary1\obj\Debug\Puzzle.csproj.CoreCompileInputs.cache
+c:\sandbox\adventofcode\2015\advent_of_code_2015\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+c:\sandbox\adventofcode\2015\advent_of_code_2015\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

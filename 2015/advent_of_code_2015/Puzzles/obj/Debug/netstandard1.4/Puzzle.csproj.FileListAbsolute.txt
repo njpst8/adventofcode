@@ -1,0 +1,8 @@
+c:\sandbox\adventofcode\2015\advent_of_code_2015\Puzzles\bin\Debug\netstandard1.4\Puzzle.deps.json
+c:\sandbox\adventofcode\2015\advent_of_code_2015\Puzzles\bin\Debug\netstandard1.4\Puzzle.dll
+c:\sandbox\adventofcode\2015\advent_of_code_2015\Puzzles\bin\Debug\netstandard1.4\Puzzle.pdb
+c:\sandbox\adventofcode\2015\advent_of_code_2015\Puzzles\obj\Debug\netstandard1.4\Puzzle.csprojAssemblyReference.cache
+c:\sandbox\adventofcode\2015\advent_of_code_2015\Puzzles\obj\Debug\netstandard1.4\Puzzle.csproj.CoreCompileInputs.cache
+c:\sandbox\adventofcode\2015\advent_of_code_2015\Puzzles\obj\Debug\netstandard1.4\Puzzle.AssemblyInfo.cs
+c:\sandbox\adventofcode\2015\advent_of_code_2015\Puzzles\obj\Debug\netstandard1.4\Puzzle.dll
+c:\sandbox\adventofcode\2015\advent_of_code_2015\Puzzles\obj\Debug\netstandard1.4\Puzzle.pdb

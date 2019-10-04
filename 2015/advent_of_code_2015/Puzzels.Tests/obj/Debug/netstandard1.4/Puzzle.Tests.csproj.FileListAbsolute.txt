@@ -1,0 +1,8 @@
+c:\sandbox\adventofcode\2015\advent_of_code_2015\Puzzels.Tests\bin\Debug\netstandard1.4\Puzzle.Tests.deps.json
+c:\sandbox\adventofcode\2015\advent_of_code_2015\Puzzels.Tests\bin\Debug\netstandard1.4\Puzzle.Tests.dll
+c:\sandbox\adventofcode\2015\advent_of_code_2015\Puzzels.Tests\bin\Debug\netstandard1.4\Puzzle.Tests.pdb
+c:\sandbox\adventofcode\2015\advent_of_code_2015\Puzzels.Tests\obj\Debug\netstandard1.4\Puzzle.Tests.csprojAssemblyReference.cache
+c:\sandbox\adventofcode\2015\advent_of_code_2015\Puzzels.Tests\obj\Debug\netstandard1.4\Puzzle.Tests.csproj.CoreCompileInputs.cache
+c:\sandbox\adventofcode\2015\advent_of_code_2015\Puzzels.Tests\obj\Debug\netstandard1.4\Puzzle.Tests.AssemblyInfo.cs
+c:\sandbox\adventofcode\2015\advent_of_code_2015\Puzzels.Tests\obj\Debug\netstandard1.4\Puzzle.Tests.dll
+c:\sandbox\adventofcode\2015\advent_of_code_2015\Puzzels.Tests\obj\Debug\netstandard1.4\Puzzle.Tests.pdb
